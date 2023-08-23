@@ -1,0 +1,46 @@
+C:
+
++ soma 
+- subtração
+/ divisao
+* multiplicacao
+
+---------------------------
+
+maior ou igual: >=
+menor ou igual: <=
+maior >
+menor <
+igual ==
+diferente !=
+
+------------------------
+
+
+Comando IF:
+
+if (<condição>) {
+<bloco_de_comandos>
+}
+
+else if (<condição>) {
+bloco_de_comandos 
+}
+
+else {
+<bloco_de_comando>
+}
+
+-------------------------
+
+Condiçoes logico-relacionais:
+conjunção ("e" lógico): &&
+é verdade qdo tudo for verdade
+
+disjunção ("ou" lógico): | |
+é verdade se ao menos 1 for verdade
+
+inversao (negação - "não logico"): !
+é verdade quando o operante é falso
+
+---------------------------
